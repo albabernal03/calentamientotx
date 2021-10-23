@@ -1,3 +1,2 @@
-print ("hola mundo")
-print ("estamos conectados")
-print("adios")
+suma = 21 + 43
+print(suma)
