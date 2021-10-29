@@ -1,3 +1,6 @@
 print("Roses are #ff0000 Violets are #0000ff why my code´s working I"
 + "haven´t a clue")
-print("lo que quieras")
+
+import colorama 
+from colorama import init, Fore
+print(Fore,GREEN+"Hola mundo")
