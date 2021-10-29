@@ -1,3 +1,3 @@
 altura = 50
-altura = 50 + 1
-print (altura)
+altura2 = altura + 1
+print (altura2)
