@@ -1,5 +1,5 @@
-suma = 5 + 3
- 
+suma = 5 + 2
+
 print (suma)
 
 resta = 142 - 51
