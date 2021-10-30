@@ -1,8 +1,7 @@
-
+import random
 for i in range (51):
     print(i)
-    
-import random
+
 dinero = 2000
 edad = random.randint(0,50)
 hambre = edad
